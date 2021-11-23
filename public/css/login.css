@@ -211,6 +211,33 @@ footer .derechos{
 }
 
 
+#tarjetaDeCredito {
+    color: #1259c3;
+    transition: color 0.5s;
+}
+
+#regalo {
+    color: #1259c3;
+    transition: color 0.5s;
+}
+
+#escudo {
+    color: #1259c3;
+    transition: color 0.5s;
+}
+
+#tarjetaDeCredito:hover {
+    color: #EAC926;
+}
+
+#regalo:hover {
+    color: #EAC926;
+}
+
+#escudo:hover {
+    color: #EAC926;
+}
+
 
 
 
